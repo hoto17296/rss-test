@@ -23,5 +23,11 @@
 			<description>html &amp; entity</description>
 			<pubDate>Fri, 01 Jan 2016 00:01:00 +0900</pubDate>
 		</item>
+		<item>
+			<title>ついか記事</title>
+			<link>http://localhost/item/1</link>
+			<description>html &amp; entity</description>
+			<pubDate>Fri, 01 Jan 2016 00:01:00 +0900</pubDate>
+		</item>
 	</channel>
 </rss>
